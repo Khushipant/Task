@@ -24,7 +24,7 @@ bcrypt.js for Password Hashing
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-repo-url.git
+git clone https://github.com/Khushipant/Task.git
 cd task-management-app
 
 2️⃣ Backend Setup
